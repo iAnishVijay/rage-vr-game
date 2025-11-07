@@ -1,0 +1,5 @@
+C:/Users/anish/Downloads/Unity-VR-Basics-2022-main/Unity-VR-Basics-2022-main/.utmp/RelWithDebInfo/54sc1p3s/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/anish/Downloads/Unity-VR-Basics-2022-main/Unity-VR-Basics-2022-main/.utmp/RelWithDebInfo/54sc1p3s/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/anish/Downloads/Unity-VR-Basics-2022-main/Unity-VR-Basics-2022-main/.utmp/RelWithDebInfo/54sc1p3s/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/anish/Downloads/Unity-VR-Basics-2022-main/Unity-VR-Basics-2022-main/.utmp/RelWithDebInfo/54sc1p3s/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/anish/Downloads/Unity-VR-Basics-2022-main/Unity-VR-Basics-2022-main/.utmp/RelWithDebInfo/54sc1p3s/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
